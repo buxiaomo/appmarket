@@ -12,4 +12,4 @@ jobs:
 
       - name: index charts
         run: |
-          ./install.sh
+          ./index.sh
