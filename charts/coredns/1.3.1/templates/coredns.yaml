@@ -57,6 +57,7 @@ data:
   Corefile: |
     .:53 {
         errors
+        ready
         health {
           lameduck 5s
         }
