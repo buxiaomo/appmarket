@@ -1,7 +1,7 @@
 apiVersion: v2
 name: canal
-description: support kubernetes v1.27-v1.31
-kubeVersion: ">=1.27.0"
+description: Calico is a networking and security solution that enables Kubernetes workloads and non-Kubernetes/legacy workloads to communicate seamlessly and securely.
+kubeVersion: ">= 1.27.0, < 1.31"
 
 # A chart can be either an 'application' or a 'library' chart.
 #
