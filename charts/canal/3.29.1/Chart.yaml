@@ -1,7 +1,7 @@
 apiVersion: v2
 name: canal
 description: Canal is a networking and security solution that enables Kubernetes workloads and non-Kubernetes/legacy workloads to communicate seamlessly and securely.
-kubeVersion: ">= 1.29.0, < 1.32"
+kubeVersion: ">= 1.29.0"
 
 # A chart can be either an 'application' or a 'library' chart.
 #
