@@ -1,5 +1,6 @@
-# Default values for calico.
+# Default values for coredns.
 # This is a YAML-formatted file.
 # Declare variables to be passed into your templates.
 
-subNet: "10.244.0.0/16"
+replicaCount: 1
+clusterIP: "10.96.0.2"
